@@ -1,0 +1,23 @@
+elpa/
+*~$
+flycheck*
+logs/
+tldr/
+
+# ignore some session based files and folders
+amx-items
+auto-save-list/
+flycheck_init.el
+org-clock-save.el
+projectile-bookmarks.eld
+savehist.log
+tramp
+var/
+xkcd/
+.persistent-scratch
+.uptimes.el
+workspace/
+eclipse.*/
+*.last
+*.desktop
+*.lock
